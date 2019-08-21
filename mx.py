@@ -19826,7 +19826,7 @@ def main():
 
 
 # The comment after VersionSpec should be changed in a random manner for every bump to force merge conflicts!
-version = VersionSpec("5.231.3")  # GR-17678
+version = VersionSpec("5.231.4")  # Apache Jackpot 11.1
 
 currentUmask = None
 _mx_start_datetime = datetime.utcnow()
